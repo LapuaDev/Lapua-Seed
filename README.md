@@ -12,6 +12,9 @@
 
 <img height="250" alt="im04" src="https://github.com/user-attachments/assets/289ba5f6-8f9b-460d-bf2e-683ccfe127a5" />
 
+<br><br>
+Виготовляються у різних варіантах (для 12 слів, для 12 слів та 6-ти значного PIN коду і для 24 слів.)
+
 
 <h1>Інструкція Lapua Seed</h1>
 
