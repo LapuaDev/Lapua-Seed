@@ -33,4 +33,7 @@
 <br><br>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/76dece7c-c976-429d-a515-ee75fec55c05" />
 
+<br><br>
+<a href="https://lapua.dev/shop.html" target="_blank">Замовити</a?
+
 <!-- <img width="550" height="300" alt="render1" src="https://github.com/user-attachments/assets/9e5f1010-4a08-42f5-a988-abb944568e04" /> -->
