@@ -10,7 +10,7 @@
 <br><br>
 Приклад пластини для seed фрази з 12 слів у котрій перше слово <b>ghost</b>, п'яте <b>avocado</b>, а останнє <b>behind</b>.
 
-<img width="1193" height="875" alt="image" src="https://github.com/user-attachments/assets/a736c016-363b-45cd-b181-f1504a952fbc" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/a736c016-363b-45cd-b181-f1504a952fbc" />
 
 
 <!-- <img width="550" height="300" alt="render1" src="https://github.com/user-attachments/assets/9e5f1010-4a08-42f5-a988-abb944568e04" /> -->
