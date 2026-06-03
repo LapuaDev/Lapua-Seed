@@ -8,7 +8,7 @@
 
 <img height="300" alt="deep2" src="https://github.com/user-attachments/assets/c989dbc8-9523-4976-9f85-3548266e694f" />
 
-<img width="500" alt="im04" src="https://github.com/user-attachments/assets/289ba5f6-8f9b-460d-bf2e-683ccfe127a5" />
+<img height="300" alt="im04" src="https://github.com/user-attachments/assets/289ba5f6-8f9b-460d-bf2e-683ccfe127a5" />
 
 <img width="600" alt="nologo_qr2" src="https://github.com/user-attachments/assets/28417c19-641d-4e8f-8bdb-c5bef45f4ddc" />
 
