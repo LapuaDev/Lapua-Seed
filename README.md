@@ -4,9 +4,10 @@
 
 <img width="800" alt="im01" src="https://github.com/user-attachments/assets/4c1b96a6-1a25-4d4c-ba64-23be24e823ff" />
 
+<br>
 <h2>Як записати фразу</h2>
 Кожен рядок на пластині призначений для одного слова seed фрази. Записується не саме слово в текстовому форматі, а його порядковий номер у словнику BIP39 розкладений на доданки послідовності степенів числа 2. Кодування слів можна знайти у каталозі BIP39 або навчитись вираховувати самостійно.
 
 Приклад пластини для seed фрази з 12 слів у котрій перше слово <b>ghost</b>, п'яте <b>avocado</b>, а останнє <b>behind</b>.
 
-<img width="550" height="300" alt="render1" src="https://github.com/user-attachments/assets/9e5f1010-4a08-42f5-a988-abb944568e04" />
+<!-- <img width="550" height="300" alt="render1" src="https://github.com/user-attachments/assets/9e5f1010-4a08-42f5-a988-abb944568e04" /> -->
