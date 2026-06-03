@@ -1,14 +1,14 @@
 <h1>Що таке Lapua Seed</h1>
 Пластина з нержавіючої сталі AISI 304 для зберігання мнемонічної фрази (мнемонічний планшет).
 <br><br>
-<img width="800" alt="lapua_dev_main1" src="https://github.com/user-attachments/assets/a41dc722-15a9-44a0-8491-3beb9166a311" />
+<img width="700" alt="lapua_dev_main1" src="https://github.com/user-attachments/assets/a41dc722-15a9-44a0-8491-3beb9166a311" />
 
 <br><br>
 Щоб seed фраза від криптогаманця не була скомпрометована чи викрадена її варто зберігати на офлайн носіях. Зазвичай, seed записують на клаптику паперу, але його легко пошкодити та втратити. Металева пластина стійка до часу, води, вогню й інших неприємних явищ. Містить таблицю, кожен рядок котрої призначений для запису одного слова із словника BIP39. На пластину наноситься не саме слово в текстовому форматі, а його порядковий номер у словнику розкладений на бінарний код. Відмітки у комірках таблиці здійснюють з допомогою керна та молотка. Таке маркування акуратне, глибоке, чітке та надійне.
 
-<img width="600" alt="deep2" src="https://github.com/user-attachments/assets/c989dbc8-9523-4976-9f85-3548266e694f" />
+<img height="300" alt="deep2" src="https://github.com/user-attachments/assets/c989dbc8-9523-4976-9f85-3548266e694f" />
 
-<img width="600" alt="im04" src="https://github.com/user-attachments/assets/289ba5f6-8f9b-460d-bf2e-683ccfe127a5" />
+<img width="500" alt="im04" src="https://github.com/user-attachments/assets/289ba5f6-8f9b-460d-bf2e-683ccfe127a5" />
 
 <img width="600" alt="nologo_qr2" src="https://github.com/user-attachments/assets/28417c19-641d-4e8f-8bdb-c5bef45f4ddc" />
 
