@@ -7,7 +7,7 @@
 
 <img width="600" alt="deep2" src="https://github.com/user-attachments/assets/c989dbc8-9523-4976-9f85-3548266e694f" />
 
-<img width="600" height="1079" alt="im04 (1)" src="https://github.com/user-attachments/assets/289ba5f6-8f9b-460d-bf2e-683ccfe127a5" />
+<img width="600" alt="im04" src="https://github.com/user-attachments/assets/289ba5f6-8f9b-460d-bf2e-683ccfe127a5" />
 
 
 <h1>Інструкція Lapua Seed</h1>
