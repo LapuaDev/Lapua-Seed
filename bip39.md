@@ -4,6 +4,11 @@
 
 > Зафарбований кружечок `⚫` означає, що у комірці є позначка. `⚪` — комірка порожня.
 
+# BIP-39 Binary Catalog (Words 1–200)
+
+This table contains a structured mapping of BIP-39 words to their respective 12-bit binary representations, visualized with clear and dark circles for easy scanning.
+
+
 | **1** | abandon | ⚪⚪⚪⚪ \| ⚪⚪⚪⚪ \| ⚪⚪⚪⚫ |
 | **2** | ability | ⚪⚪⚪⚪ \| ⚪⚪⚪⚪ \| ⚪⚪⚫⚪ |
 | **3** | able | ⚪⚪⚪⚪ \| ⚪⚪⚪⚪ \| ⚪⚪⚫⚫ |
