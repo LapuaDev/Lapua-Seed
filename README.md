@@ -43,7 +43,7 @@
 <h2>Комплектація</h2>
 Одна чи декілька пластин з нержавіючої сталі розміром 54 х 85,6 х 2 мм., пластиковий чохол для кожної пластини, керно для сталі, картка з швидкою інструкцією, кейс з екопластику та маркер для тимчасових відміток
 <br><br>
-<img height="250" alt="case_new" src="https://github.com/user-attachments/assets/0d285995-7e61-4b83-bbb7-bc3239af3abd" />
+<img height="350" alt="case_new" src="https://github.com/user-attachments/assets/0d285995-7e61-4b83-bbb7-bc3239af3abd" />
 
 
 <br><br>
