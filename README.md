@@ -1,3 +1,4 @@
+
 <h1>Що таке Lapua Seed</h1>
 Пластина з нержавіючої сталі AISI 304 для зберігання мнемонічної фрази (мнемонічний планшет).
 <br><br>
@@ -11,6 +12,8 @@
 <img height="250" alt="deep2" src="https://github.com/user-attachments/assets/c989dbc8-9523-4976-9f85-3548266e694f" />
 
 <img height="250" alt="im04" src="https://github.com/user-attachments/assets/289ba5f6-8f9b-460d-bf2e-683ccfe127a5" />
+
+<img height="250" alt="24_plus_1" src="https://github.com/user-attachments/assets/b9502ca9-ae22-444b-aaa1-fe3d2ac5355a" />
 
 <br>
 Виготовляються у різних варіантах (для 12 слів, для 12 слів та 6-ти значного PIN коду і для 24 слів.)
