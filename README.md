@@ -40,6 +40,13 @@
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/76dece7c-c976-429d-a515-ee75fec55c05" />
 
 <br><br>
+<h2>Комплектація</h2>
+Одна чи декілька пластин з нержавіючої сталі розміром 54 х 85,6 х 2 мм., пластиковий чохол для кожної пластини, керно для сталі, картка з швидкою інструкцією, кейс з екопластику та маркер для тимчасових відміток
+<br><br>
+<img height="250" alt="case_new" src="https://github.com/user-attachments/assets/0d285995-7e61-4b83-bbb7-bc3239af3abd" />
+
+
+<br><br>
 <a href="https://lapua.dev/shop.html" target="_blank">Замовити</a>
 
 <!-- <img width="550" height="300" alt="render1" src="https://github.com/user-attachments/assets/9e5f1010-4a08-42f5-a988-abb944568e04" /> -->
